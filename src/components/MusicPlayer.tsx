@@ -16,8 +16,8 @@ export default function MusicPlayer({ autoPlay = false }: MusicPlayerProps) {
   
   const audioRef = useRef<HTMLAudioElement | null>(null);
 
-  // Path to local song
-  const localSongSrc = '/assets/music/love-song.mp3';
+  // Path to local song (inside the public folder)
+  const localSongSrc = '/love-song.mp3';
   // Backup royalty-free romantic acoustic piano song so it works out of the box
   const backupSongSrc = 'https://www.soundhelix.com/examples/mp3/SoundHelix-Song-8.mp3';
 

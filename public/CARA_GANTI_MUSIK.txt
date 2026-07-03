@@ -1,0 +1,7 @@
+Halo! Di sini kamu bisa menaruh file musik pilihanmu.
+
+Cara Ganti Musik:
+1. Siapkan file lagu berformat MP3 yang kamu inginkan (misalnya lagu romantis pilihanmu).
+2. Ubah nama file lagu tersebut menjadi: love-song.mp3
+3. Taruh/pindahkan file "love-song.mp3" tersebut ke dalam folder "public" ini (menggantikan panduan ini atau mendampinginya).
+4. Selesai! Saat aplikasi dijalankan atau di-upload ke Netlify, lagu tersebut akan otomatis terputar sebagai musik latar utama.
