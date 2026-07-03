@@ -1,0 +1,6 @@
+{
+  "name": "For Wid",
+  "description": "A premium romantic interactive invitation website built for Wid with elegant music player, polaroid photo gallery, interactive love meter, and dynamic animations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
